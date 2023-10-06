@@ -2,7 +2,7 @@
 
 👀 I’m interested in leveraging my skills in computational design and data analysis to create sustainable and innovative architectural solutions. Exploring the intersection of architecture, parametricism, and bioclimatism is my passion.
 
-🌱 I’m currently learning and expanding my knowledge in Python, with a focus on data analysis and artificial intelligence. This knowledge will help me further enhance my capabilities in developing intelligent and sustainable architectural solutions.
+🌱 I’m currently learning and expanding my knowledge in Python, with a focus on data analysis and artificial intelligence. 
 
 💞️ I’m looking to collaborate on projects that involve computational design, parametric modeling, and applications of artificial intelligence in architecture. I'm eager to collaborate with like-minded professionals and enthusiasts in the field.
 
